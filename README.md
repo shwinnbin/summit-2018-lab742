@@ -1,5 +1,5 @@
-## Welcome to [Lab-742](bit.ly/summit-lab742)
-bit.ly/summit-lab742
+## Welcome to [Lab-742](http://bit.ly/summit-lab742)
+http://bit.ly/summit-lab742
 
 ### Adobe I/O 
 
