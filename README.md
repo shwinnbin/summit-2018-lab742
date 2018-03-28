@@ -1,5 +1,16 @@
 ## Welcome to Lab-742 
 
+### Adobe I/O 
+
+[I/O Events Integrations:](https://console.adobe.io/integrations) https://console.adobe.io/integrations
+- User: Refer to the sheet infornt of you (example: `lab742+user10@adobetest.com`)
+- Password: Refer to the sheet infornt of you (example: `10Summit2018`)
+
+### Adobe Experience Manager (AEM)
+
+[Adobe Experience Manager:](http://summit-lab742.com:4502/) http://summit-lab742.com:4502/
+- User: `admin`
+- Password: `admin`
 
 ### Slack details 
 
